@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sendrea Gheorghe
 - 👀 I’m a senior Web application developer
-- 🌱 I have more then 6+ years of experience with: **ReactJs**, **Angular**, **Javascript**
+- 🌱 I have more then 6+ years of experience with: **ReactJs**, **Angular**, **Javascript**, **Redux, Redux-saga, Redux-toolkit, RTK query**
 - 🌱 My secondary skills are: **Php**, **NodeJs**, **Aws amplidy**, **Rest**, **Swagger**
 - 🎾 In my free time I spent time with my family, doing a lot of activities (gym, biking, hiking, camping, boxing).
 - 📖 I also enjoy reading books and blogs
